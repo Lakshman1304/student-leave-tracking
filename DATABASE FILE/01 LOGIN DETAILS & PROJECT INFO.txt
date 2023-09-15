@@ -1,0 +1,15 @@
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+Username: mit@123
+Password: mit@123
+
+
+
+**Student Login Details**
+
+Username: shetty@gmail.com
+Password: 123456
